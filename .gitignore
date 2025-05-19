@@ -1,0 +1,15 @@
+#env
+.env
+.env.local
+.env.development
+.env.production
+#########
+*.key
+*.pem
+comnfig.json
+secrets.json
+####
+*.log
+#####
+*.db
+*.sqlite
